@@ -1,0 +1,7 @@
+name: disconnect-reason
+version: '${version}'
+
+main: dev.nullworks.disconnectReason.Main
+api-version: '1.21.11'
+load: POSTWORLD
+author: nullworks.dev
